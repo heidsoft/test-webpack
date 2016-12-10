@@ -4,6 +4,9 @@ test-webpack
 ```
 http://zhizhi.betahouse.us/2015/09/27/yi-webpackde-demos/
 npm install babel-loader babel-core babel-preset-es2015 --save-dev
+
+webpackJsonp is not defined 错误是由于公共文件没有放到入口文件之上
+
 ```
 
 ##一个入口文件
